@@ -1,0 +1,16 @@
+UsersBundle\Entity\Euroformac:
+    properties:
+        nombre:
+            - Length:
+                min: 4
+                minMessage: "El nombre tiene que tener 4 o mas caracteres"
+        telefono:
+            - Length:
+                min: 9
+                max: 9
+                exactMessage: "El telefono tiene que tener 9 cifras"
+            - Type:
+                type: digit
+                message: "EL formato del telefono no es correcto"
+                
+    

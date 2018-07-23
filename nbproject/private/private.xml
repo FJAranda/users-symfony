@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Form/EuroformacType.php</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/UsersBundle.php</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Entity/Euroformac.php</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/web/config.php</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Resources/config/doctrine/Euroformac.orm.yml</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Resources/views/layout.html.twig</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Resources/config/validation.yml</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Resources/config/routing.yml</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Resources/config/services.yml</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Resources/config/doctrine/metadata/orm/Euroformac.orm.xml</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/tests/UsersBundle/Controller/DefaultControllerTest.php</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Resources/views/Default/index.html.twig</file>
+            <file>file:/C:/Users/el_ja/Desktop/euroformac/src/UsersBundle/Controller/DefaultController.php</file>
+        </group>
+    </open-files>
+</project-private>
